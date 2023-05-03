@@ -1,3 +1,2 @@
-2023/05/03-00:49:31.650 7408 Reusing MANIFEST E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\Platform Notifications/MANIFEST-000001
-2023/05/03-00:49:31.651 7408 Recovering log #3
-2023/05/03-00:49:31.651 7408 Reusing old log E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\Platform Notifications/000003.log 
+2023/05/03-00:57:33.946 7e14 Creating DB E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\Platform Notifications since it was missing.
+2023/05/03-00:57:33.959 7e14 Reusing MANIFEST E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\Platform Notifications/MANIFEST-000001

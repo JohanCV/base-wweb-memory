@@ -1,3 +1,2 @@
-2023/05/03-00:49:32.291 4018 Reusing MANIFEST E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
-2023/05/03-00:49:32.292 4018 Recovering log #3
-2023/05/03-00:49:32.293 4018 Reusing old log E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\Session Storage/000003.log 
+2023/05/03-00:54:48.759 58f8 Creating DB E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\Session Storage since it was missing.
+2023/05/03-00:54:48.775 58f8 Reusing MANIFEST E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001

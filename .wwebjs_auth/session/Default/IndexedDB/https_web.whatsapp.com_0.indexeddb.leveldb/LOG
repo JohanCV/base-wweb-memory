@@ -1,15 +1,6 @@
-2023/05/03-00:49:33.228 38e4 Reusing MANIFEST E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/03-00:49:33.232 38e4 Recovering log #6981
-2023/05/03-00:49:33.318 38e4 Reusing old log E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/006981.log 
-2023/05/03-00:49:33.319 38e4 Delete type=2 #6983
-2023/05/03-00:49:33.319 38e4 Delete type=2 #6975
-2023/05/03-00:49:33.319 38e4 Delete type=2 #6976
-2023/05/03-00:49:33.319 38e4 Delete type=2 #6977
-2023/05/03-00:49:33.319 38e4 Delete type=2 #6978
-2023/05/03-00:49:33.319 38e4 Delete type=2 #6979
-2023/05/03-00:49:57.396 6a28 Compacting 1@1 + 4@2 files
-2023/05/03-00:49:57.640 6a28 Generated table #7003@1: 102571 keys, 2251514 bytes
-2023/05/03-00:49:57.904 6a28 Generated table #7004@1: 103158 keys, 2252223 bytes
-2023/05/03-00:49:58.189 6a28 Generated table #7005@1: 93976 keys, 2105191 bytes
-2023/05/03-00:49:58.189 6a28 Compacted 1@1 + 4@2 files => 6608928 bytes
-2023/05/03-00:49:58.192 6a28 compacted to: files[ 0 0 37 0 0 0 0 ]
+2023/05/03-00:54:49.582 40d0 Creating DB E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/05/03-00:54:49.606 40d0 Reusing MANIFEST E:\Programacion\chatbot_dutic\base-wweb-memory\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/03-00:54:49.717 58f8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/03-00:57:25.211 3d90 Level-0 table #5: started
+2023/05/03-00:57:25.278 3d90 Level-0 table #5: 1296191 bytes OK
+2023/05/03-00:57:25.285 3d90 Delete type=0 #3
