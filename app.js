@@ -4,8 +4,6 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const WebWhatsappProvider = require('@bot-whatsapp/provider/web-whatsapp')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
-const QRPortal = require('@bot-whatsapp/portal')
-
 let fullname
 let email
 let dni
@@ -142,8 +140,7 @@ const main = async () => {
         }
     },null,[flowStart])
 
-    QRPortalWeb()
+    
 }
-
-QRPortal()
+QRPortalWeb({port:4001})
 main()
